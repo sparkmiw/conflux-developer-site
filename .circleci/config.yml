@@ -24,7 +24,6 @@ jobs:
 
               cd project
               yarn --frozen-lockfile
-
               yarn build
 
               mkdir ../project-gh-pages
